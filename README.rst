@@ -24,5 +24,26 @@ To run the program, run
 
     py main.py
 
+📚 PDF Creator
+================
+
+- All PDFs are created in real-time and will be set to the dir ``Translations``.
+- Filenames are set to match those of the listing title.
+- Automatically centered, dependent on the character count and length of the translated description.
+
+✏️ Scraper
+================
+
+Definitely could've done better in terms of organization and understanding here, though, this was mainly for personal use hence the carelessness of comprehension.
+
+- Inspect Etsy's HTML to see if we're able to detect whether the shop has a paginated list of listings.
+- Gather's description and title per listing.
+- Removes special characters from Etsy listing titles as they may interfere with the PDF generation.
 
 
+✏️ Translation
+================
+
+Install dependencies:
+::
+    pip install easygoogletranslate
