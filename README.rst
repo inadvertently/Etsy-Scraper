@@ -41,7 +41,7 @@ Definitely could've done better in terms of organization and understanding here,
 - Removes special characters from Etsy listing titles as they may interfere with the PDF generation.
 
 
-✏️ Translation
+✏ Translation
 ================
 
 Install dependencies:
