@@ -1,4 +1,4 @@
-Etsy-Description-Translater
+Etsy-Description-Scraper-Translater
 ==============
 
 The Etsy Description translator is a small Python utility that uses BeautifulSoup to scrape a shop listing descriptions translate them, and export them as PDFs. I created this as adding descriptions to other Amazon platforms such as Amazon.mx and .br can be extremely unpleasant as translating hundreds of descriptions is not logical.
