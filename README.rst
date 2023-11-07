@@ -7,6 +7,14 @@ There is no rate-limiting protection built in. However, I have not encountered a
 
 .. _Etsy Ratelimits: https://developer.etsy.com/documentation/essentials/rate-limits/
 
+Features
+--------
+- Automated detection of paginated listings.
+- No authentication is needed.
+- Listing Titles Scraped and used as PDF filenames for easy navigation.
+--------
+
+
 * Free software: GNU Lesser General Public License v3 or later (LGPLv3+)
 
 💻 Usage
