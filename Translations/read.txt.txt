@@ -1,0 +1,1 @@
+Upon runing the script, your translated descriptions will be exported in this dir as PDF files.
